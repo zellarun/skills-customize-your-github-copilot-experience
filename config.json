@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "database-fundamentals",
+      "title": "Database Fundamentals with SQLAlchemy and SQLite",
+      "description": "Build a task manager with persistent database storage using SQLAlchemy ORM and CRUD operations",
+      "path": "assignments/database-fundamentals",
+      "dueDate": "2026-04-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
